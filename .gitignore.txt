@@ -25,7 +25,7 @@ env/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-.ipynb.layout
+.dataframe.ipynb.layout
 .log
 
 # Sensitive information / Environment variables
